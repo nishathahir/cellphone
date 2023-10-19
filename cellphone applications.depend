@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1595647119 source:d:\packages\oops\cellphone applications\snake_imp.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"Snake_head.h"
+
+1595647119 d:\packages\oops\cellphone applications\snake_head.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1595668457 source:d:\packages\oops\cellphone applications\otherapps_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<string>
+	<math.h>
+	"Otherapps_head.h"
+
+1595604799 d:\packages\oops\cellphone applications\otherapps_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<string>
+	<math.h>
+
+1595657369 source:d:\packages\oops\cellphone applications\sms_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Contacts_head.h"
+	"SMS_head.h"
+
+1595655354 d:\packages\oops\cellphone applications\contacts_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595657369 d:\packages\oops\cellphone applications\sms_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595667828 source:d:\packages\oops\cellphone applications\contacts_imp.cpp
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Contacts_head.h"
+
+1595666566 source:d:\packages\oops\cellphone applications\mail_imp.cpp
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	"Mail_head.h"
+
+1595666547 d:\packages\oops\cellphone applications\mail_head.h
+	<fstream>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+
+1595663227 source:d:\packages\oops\cellphone applications\camera_imp.cpp
+	<iostream>
+	"Camera_head.h"
+
+1595644903 d:\packages\oops\cellphone applications\camera_head.h
+	<iostream>
+
+1595668880 source:d:\packages\oops\cellphone applications\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<process.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	<ctime>
+	<vector>
+	"Contacts_head.h"
+	"SMS_head.h"
+	"Mail_head.h"
+	"Otherapps_head.h"
+	"Camera_head.h"
+	"Snake_head.h"
+
